@@ -1,0 +1,16 @@
+jan
+kowalski
+12345
+
+maciek
+szczypek
+421234
+
+bartosz
+adamski
+5432243
+
+jan
+nowak
+555555
+
