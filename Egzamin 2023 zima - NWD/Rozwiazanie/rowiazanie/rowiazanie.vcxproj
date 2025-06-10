@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="NWD.cpp" />
     <ClCompile Include="rowiazanie.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NWD.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
